@@ -11,6 +11,8 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the Repository**
 
+   Before cloning, please ensure you understand and agree to the terms of the GNU Affero General Public License as outlined in the LICENSE file. By cloning or forking the repository, you agree to comply with the license terms.
+
    ```bash
    git clone https://github.com/bpetrovbg/simple_transactions
    ```
@@ -60,3 +62,5 @@ To start development, you will need to open two command prompts (CMDs):
    ```
 
 This will start the development server for the frontend application you are working on.
+
+Please remember that any modifications or distributions of the code must adhere to the terms specified in the LICENSE file.
