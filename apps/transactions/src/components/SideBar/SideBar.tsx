@@ -82,8 +82,8 @@ const SideBar: React.FC<SideBarProps> = (props: SideBarProps) => {
       <SidebarHeader>
         <SidebarSection>
           <SidebarItem onClick={toggleSidebar} style={{ cursor: 'pointer' }}>
-            <Avatar src="/BrikLabsLogo.png" />
-            {isSidebarExpanded && <SidebarLabel>Brik Labs</SidebarLabel>}
+            <Avatar src="/payment_logo.svg" />
+            {isSidebarExpanded && <SidebarLabel>Transactions</SidebarLabel>}
             {isSidebarExpanded ? <ChevronLeftIcon /> : <ChevronRightIcon />}
           </SidebarItem>
         </SidebarSection>

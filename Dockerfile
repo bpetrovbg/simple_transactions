@@ -22,7 +22,7 @@ RUN rush build
 RUN rush deploy --overwrite
 
 # Set the working directory to the deployment folder
-WORKDIR /app/common/deploy/apps/barracuda
+WORKDIR /app/common/deploy/apps/transactions
 
 # Start the application
 CMD ["rushx", "start"]

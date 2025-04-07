@@ -1,6 +1,6 @@
-apps/barracuda/dist
-apps/barracuda/node_modules
-apps/barracuda/rush-logs
+apps/transactions/dist
+apps/transactions/node_modules
+apps/transactions/rush-logs
 
 common/deploy
 common/config/rush/pnpm-lock.yaml

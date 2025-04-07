@@ -8,7 +8,7 @@ importers:
 
   .: {}
 
-  ../../apps/barracuda:
+  ../../apps/transactions:
     dependencies:
       '@fortawesome/fontawesome-svg-core':
         specifier: ^6.5.1

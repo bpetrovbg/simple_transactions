@@ -1,0 +1,15 @@
+@use 'sass:map';
+@use 'sass:color';
+@use '../../colors.scss' as transactions;
+
+.item-selected {
+  fill: map.get(transactions.$transactions-palette, orange1) !important;
+}
+
+[data-current='true'] {
+  color: map.get(transactions.$transactions-palette, orange1) !important;
+}
+
+#current-indicator {
+  background-color: map.get(transactions.$transactions-palette, orange1) !important;
+}

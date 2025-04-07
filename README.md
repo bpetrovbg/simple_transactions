@@ -12,7 +12,7 @@ Ensure you have the following installed on your machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/brik-labs/verticals
+   git clone https://github.com/bpetrovbg/simple_transactions
    ```
 
 2. **Install Dependencies**
@@ -51,7 +51,7 @@ To start development, you will need to open two command prompts (CMDs):
      rush build:watch --to-except <library-name>
      ```
 
-2. **In the Specific Frontend (e.g., Barracuda or Pike)**
+2. **In the Specific Frontend**
 
    In the second CMD, navigate to the specific frontend you are working on and run:
 

@@ -440,8 +440,8 @@
       "projectFolder": "libraries/verticals-ui"
     },
     {
-      "packageName": "barracuda-ui",
-      "projectFolder": "apps/barracuda"
+      "packageName": "transactions-ui",
+      "projectFolder": "apps/transactions"
     }
   ]
 }
